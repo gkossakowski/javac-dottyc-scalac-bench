@@ -2,7 +2,7 @@
 
 _"Scala is more rich as language than Java and must be slower to compile"_
 
-# A fair comparison
+# A comparison
 
 A simple and fair comparison of compilation speed of `javac`, `scalac` and `dotc` on the source code that requires the same amount of work from all three
 compilers. The compiled Scala code is:
