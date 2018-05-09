@@ -33,6 +33,8 @@ For such simple code, Scala and Java coincide perfectly: the language features u
 
 Timing compilation of this simple code establishes a baseline. Both scalac, dotc and javac must perform the same amount of work to produce the output.
 
+# The chart
+
 Running the benchmark yields this chart, though:
 
 ![comparison chart](javac-scalac-dotc-chart.png?raw=true "javac scalac dotc chart")
